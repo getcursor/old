@@ -20,7 +20,7 @@ Hello! This is an old version of [Cursor](https://cursor.so/) based off of the [
 To get started:
 
 ```
-git clone git@github.com:getcursor/cursor.git
+git clone git@github.com:getcursor/old.git cursor
 cd cursor
 npm i
 ```
